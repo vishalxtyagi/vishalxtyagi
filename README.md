@@ -37,7 +37,7 @@ I'm a passionate technologist and aspiring data scientist, thriving at the inter
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalxtyagi&show_icons=true" alt="Vishal's GitHub Stats" />
+  <img src="https://gh-readme-stats-xi.vercel.app/api?username=vishalxtyagi&show_icons=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
 </p>
 
 <p align="center">
